@@ -1,4 +1,7 @@
-neo4j:5.25.1-community
+selectdb/doris.be-ubuntu:2.1.7
+selectdb/doris.fe-ubuntu:2.1.7
+selectdb/doris.be-ubuntu:2.0.15
+selectdb/doris.fe-ubuntu:2.0.15
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
