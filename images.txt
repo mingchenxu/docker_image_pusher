@@ -1,6 +1,4 @@
-bitnami/elasticsearch:8.16.1
-redis:7.4.1-alpine
-memcached:1.6.32-alpine
+ghcr.io/zammad/zammad:6.4.1
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
