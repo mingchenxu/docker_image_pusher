@@ -1,4 +1,7 @@
-emqx:5.8.8
+apache/dolphinscheduler-api:3.3.2
+apache/dolphinscheduler-master:3.3.2
+apache/dolphinscheduler-worker:3.3.2
+zookeeper:3.9.4
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
